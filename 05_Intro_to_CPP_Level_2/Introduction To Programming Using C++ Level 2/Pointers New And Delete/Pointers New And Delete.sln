@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointers New And Delete", "Pointers New And Delete\Pointers New And Delete.vcxproj", "{B0F60EBE-793D-4D7D-883C-8AC0E9909864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F60EBE-793D-4D7D-883C-8AC0E9909864}.Debug|x64.ActiveCfg = Debug|x64
+		{B0F60EBE-793D-4D7D-883C-8AC0E9909864}.Debug|x64.Build.0 = Debug|x64
+		{B0F60EBE-793D-4D7D-883C-8AC0E9909864}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0F60EBE-793D-4D7D-883C-8AC0E9909864}.Debug|x86.Build.0 = Debug|Win32
+		{B0F60EBE-793D-4D7D-883C-8AC0E9909864}.Release|x64.ActiveCfg = Release|x64
+		{B0F60EBE-793D-4D7D-883C-8AC0E9909864}.Release|x64.Build.0 = Release|x64
+		{B0F60EBE-793D-4D7D-883C-8AC0E9909864}.Release|x86.ActiveCfg = Release|Win32
+		{B0F60EBE-793D-4D7D-883C-8AC0E9909864}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {104670FD-0D3A-4180-8650-D7FD640ECA92}
+	EndGlobalSection
+EndGlobal

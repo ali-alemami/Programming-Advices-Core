@@ -1,0 +1,25 @@
+10	99	
+12	18
+3	10
+-44	11	
+30	2
+160	17
+TRUE
+TRUE
+TRUE
+FALSE
+FALSE
+TRUE
+
+الدرس السادس عشر - اولويات الحساب
+ALL ANSWERS ARE CORRECT
+
+
+
+
+
+
+
+
+
+
