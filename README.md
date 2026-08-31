@@ -8,6 +8,9 @@ Just like my 42 Core archive, this serves as a master record of the grueling, da
 * 🗄️ **[Contacts App 3-Tier (C#)](https://github.com/ali-alemami/Contacts-App-3Tier)** — A strictly layered 3-Tier architecture application demonstrating database connectivity with C# and ADO.NET.
 * 🏦 **[Bank & ATM System (C++)](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — A 1,500+ line C++ capstone featuring bitmask-based permissions, custom serialization, and a fully functional ATM simulator.
 * 🎮 **[C# WinForms Collection](https://github.com/ali-alemami/CSharp-WinForms-Collection)** — UI-driven applications including a Pizza Ordering System, Random Password Generator, and Tic-Tac-Toe game.
+* 🧩 **[CPP-Mini-Projects](https://github.com/ali-alemami/CPP-Mini-Projects)** — A collection of foundational C++ applications focusing on memory management, file I/O, and core object-oriented programming concepts.
+* 🏗️ **[Data-Structures-CPP](https://github.com/ali-alemami/Data-Structures-CPP)** — Custom implementations of core data structures in C++ including Linked Lists, Stacks, Queues, and Trees with a focus on memory safety and performance.
+* 🧮 **[Programming-Advices-Algorithms](https://github.com/ali-alemami/Programming-Advices-Algorithms)** — An extensive repository of advanced algorithmic problem-solving solutions in C++, covering matrix operations, string manipulation, and time complexity optimization.
 
 ---
 
