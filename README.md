@@ -1,10 +1,17 @@
 # Programming Advices - Core 🚀
 
-This repository acts as my central archive for the foundational C++ courses, algorithms, and data structures from the [Programming Advices](https://programmingadvices.com/) curriculum. 
+This repository acts as my central archive for the C++ courses, algorithms, data structures, and architecture projects from the [Programming Advices](https://programmingadvices.com/) curriculum. 
 
-Just like `42-core`, this repository serves as a master record of the grueling, daily work required to build a rock-solid programming foundation. It contains over 150 algorithmic problem solutions, early C++ syntax homework, Object-Oriented Programming exercises, and custom Data Structures implementations.
+Just like my 42 Core archive, this serves as a master record of the grueling, daily work required to build a rock-solid programming foundation.
 
-## 📂 Repository Structure
+## 🌟 Major Capstone Projects (Separate Repositories)
+* 🗄️ **[Contacts App 3-Tier (C#)](https://github.com/ali-alemami/Contacts-App-3Tier)** — A strictly layered 3-Tier architecture application demonstrating database connectivity with C# and ADO.NET.
+* 🏦 **[Bank & ATM System (C++)](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — A 1,500+ line C++ capstone featuring bitmask-based permissions, custom serialization, and a fully functional ATM simulator.
+* 🎮 **[C# WinForms Collection](https://github.com/ali-alemami/CSharp-WinForms-Collection)** — UI-driven applications including a Pizza Ordering System, Random Password Generator, and Tic-Tac-Toe game.
+
+---
+
+## 📂 Foundational Coursework (In this Repository)
 
 *   **`02_Algorithms_Level_1/`**: 50 foundational problem-solving exercises.
 *   **`03_Intro_to_CPP_Level_1/`**: Early syntax, loops, and logic homework.
@@ -17,6 +24,3 @@ Just like `42-core`, this repository serves as a master record of the grueling, 
 *   **`10_OOP_Concepts/`**: Object-Oriented Programming (Classes, Inheritance, Polymorphism).
 *   **`12_Data_Structures_Level_1/`**: Singly/Doubly Linked Lists, Queues, Stacks, Vectors.
 *   **`13_Algorithms_Level_5/`**: Applied Data Structures Level 2.
-
-## 🧠 Why a Monorepo?
-Rather than cluttering my GitHub profile with a dozen small repositories for every course, I combined them here to provide a single, unified view of my learning journey. For my larger capstone projects (like the 3-Tier Contacts App or the OOP Bank System), please check my pinned repositories!
