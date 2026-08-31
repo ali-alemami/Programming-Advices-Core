@@ -35,8 +35,7 @@ Programming-Advices-Core/
 │
 └── 📁 05_Database_and_SQL/
     ├── 📁 01_Relational_Schemas_and_Projects/ # 5 Enterprise DDL Schemas (Clinic, Library, Karate, Rental, Store)
-    ├── 📁 02_SQL_Practices_and_Queries/     # 50 Analytical SQL problems, Window Functions, Self-Joins
-    └── 📁 03_Concepts_and_Normalization/    # 1NF to BCNF Normalization, Constraints, Indexing Guide
+    └── 📁 02_SQL_Practices_and_Queries/     # 50 Analytical SQL problems, Window Functions, Self-Joins
 ```
 
 ---

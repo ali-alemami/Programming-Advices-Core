@@ -1,6 +1,10 @@
-# Module 05: Relational Database Architecture & SQL Mastery
+# Module 05: Relational Database Architecture & SQL
 
-Comprehensive production schemas, analytical SQL query suites, normalization guides, and enterprise relational models designed across **Course 15 (SQL Concepts & Practice)** and **Course 17 (SQL Projects & Analytical Problem Solving)**.
+Relational schema designs and analytical SQL query solutions covering **Course 15 (SQL Concepts & Practice)** and **Course 17 (SQL Projects & Analytical Problem Solving)**.
+
+> [!NOTE]
+> **Curriculum Preservation Note:**  
+> The coursework for these modules was originally completed and practiced interactively in Microsoft SQL Server Management Studio (SSMS) against restored database backups (`.bak`). Because the original local query script files were lost, the DDL schemas and query solutions in this module were reconstructed with AI assistance to preserve full documentation and solution coverage for the completed curriculum.
 
 ---
 
@@ -14,17 +18,15 @@ Comprehensive production schemas, analytical SQL query suites, normalization gui
 │   ├── 03_Karate_Club_System.sql          # Belt ranks, Subscriptions, Belt tests, Instructors
 │   ├── 04_Car_Rental_System.sql           # Vehicle fleet, Daily rates, Rental contracts & returns
 │   └── 05_Online_Store_System.sql         # Nested categories, Order items, Stocks, Payments
-├── 02_SQL_Practices_and_Queries/
-│   ├── 01_Vehicle_Database_50_Queries.sql # 50 Analytical SQL problems on VehicleMakesDB
-│   └── 02_Self_Referential_Queries_and_Hierarchies.sql # Self-joins & Employee-Manager hierarchies
-└── 03_Concepts_and_Normalization/
-    └── Database_Design_and_Normalization_Guide.md # 1NF -> BCNF, Indexes, Constraints
+└── 02_SQL_Practices_and_Queries/
+    ├── 01_Vehicle_Database_50_Queries.sql # 50 Analytical SQL problems on VehicleMakesDB
+    └── 02_Self_Referential_Queries_and_Hierarchies.sql # Self-joins & Employee-Manager hierarchies
 ```
 
 ---
 
 ## 🚀 Key Database Engineering Highlights
 
-1. **Production-Grade DDL**: Strict referential integrity, cascading rules, check constraints (`CHECK`), identity keys, and non-clustered performance indexes.
+1. **Relational DDL**: Referential integrity, cascading rules, check constraints (`CHECK`), and non-clustered indexes.
 2. **Analytical Query Patterns**: Window functions (`SUM() OVER()`), dynamic aggregations (`HAVING`), pattern matching (`LIKE`), scalar subqueries, and random sorting (`NEWID()`).
 3. **Enterprise Hierarchy Modeling**: Self-referential joins (`INNER` / `LEFT JOIN`) and fallback handling (`COALESCE` / `CASE`) for organizational trees.
