@@ -24,3 +24,29 @@ Just like my 42 Core archive, this serves as a master record of the grueling, da
 *   **`10_OOP_Concepts/`**: Object-Oriented Programming (Classes, Inheritance, Polymorphism).
 *   **`12_Data_Structures_Level_1/`**: Singly/Doubly Linked Lists, Queues, Stacks, Vectors.
 *   **`13_Algorithms_Level_5/`**: Applied Data Structures Level 2.
+
+### 🧠 Curriculum Mindmap
+```mermaid
+mindmap
+  root((Programming<br/>Advices))
+    C++ Foundations
+      Syntax & Loops
+      Functions & Arrays
+      Pointers & Memory
+    Object Oriented
+      Classes & Objects
+      Inheritance
+      Polymorphism
+    Algorithms
+      Matrix Math
+      String Parsing
+      Sorting & Searching
+    Data Structures
+      Linked Lists
+      Stacks & Queues
+      Trees
+    Enterprise Architecture
+      C# WinForms
+      ADO.NET
+      SQL Server
+```
