@@ -1,12 +1,22 @@
-# Visual Studio build artifacts
+# C / C++
 .vs/
-Debug/
-Release/
+[Dd]ebug/
+[Rr]elease/
 x64/
-ipch/
-*.suo
+x86/
+*.obj
+*.o
+*.a
+*.exe
+*.out
+*.app
+*.pdb
+*.ilk
 *.user
+*.suo
 *.db
 *.opendb
 *.VC.db
-*.zip
+*.tlog
+*.log
+*.idb
