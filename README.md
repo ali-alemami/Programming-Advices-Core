@@ -30,8 +30,13 @@ Programming-Advices-Core/
 │   ├── 📁 Stack_and_Queue/                  # LIFO / FIFO operations (StackSwap, QueueLine)
 │   └── 📁 Map/                              # Associative array and key-value mapping
 │
-└── 📁 04_CS_Foundations_and_Networking/
-    └── 📁 Networking_and_OS_Notes/          # TCP/IP, IPv4/IPv6, DHCP, NAT, Sockets & Servers
+├── 📁 04_CS_Foundations_and_Networking/
+│   └── 📁 Networking_and_OS_Notes/          # TCP/IP, IPv4/IPv6, DHCP, NAT, Sockets & Servers
+│
+└── 📁 05_Database_and_SQL/
+    ├── 📁 01_Relational_Schemas_and_Projects/ # 5 Enterprise DDL Schemas (Clinic, Library, Karate, Rental, Store)
+    ├── 📁 02_SQL_Practices_and_Queries/     # 50 Analytical SQL problems, Window Functions, Self-Joins
+    └── 📁 03_Concepts_and_Normalization/    # 1NF to BCNF Normalization, Constraints, Indexing Guide
 ```
 
 ---
@@ -45,6 +50,7 @@ Programming-Advices-Core/
 | **03. OOP & Architecture** | **12+ Concepts & Projects** | Inheritance, Polymorphism, Custom String/Date/Validation Libraries |
 | **04. Data Structures** | **Core Implementations** | Custom Singly/Doubly Linked Lists, Stacks, Queues, Maps |
 | **05. Systems & Networking** | **Theory & Specs** | TCP/IP Model, IPv4/v6 Addressing, Subnetting, NAT, DHCP |
+| **06. Database & SQL** | **5 Schemas & 54+ Queries** | DDL/DML, 1NF–3NF Normalization, Window Aggregations, Self-Joins |
 
 ---
 
