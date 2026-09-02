@@ -44,7 +44,7 @@ Programming-Advices-Core/
 
 | Category | Modules / Problems | Focus Areas |
 | :--- | :--- | :--- |
-| **01. Algorithms** | **215+ Solutions** | Math, Matrix Transformations, Number Theory, Date Math, Recursion |
+| **01. Algorithms** | **225+ Solutions** | Math, Matrix Transformations, Number Theory, Date Math, Recursion |
 | **02. C++ & Memory** | **40+ Modules** | Pointers, Dynamic Allocation, File I/O, Vector Manipulation |
 | **03. OOP & Architecture** | **12+ Concepts & Projects** | Inheritance, Polymorphism, Custom String/Date/Validation Libraries |
 | **04. Data Structures** | **Core Implementations** | Custom Singly/Doubly Linked Lists, Stacks, Queues, Maps |
