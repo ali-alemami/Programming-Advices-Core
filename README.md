@@ -54,8 +54,6 @@ Programming-Advices-Core/
 ## Standalone Repositories
 
 * **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Procedural C++ banking application using structs, bitmask permissions, and file-based persistence.
-* **Contacts-App-3Tier** `(Private)` — Skeletal/incomplete N-Tier C# application.
-* **CSharp-WinForms-Collection** `(Private)` — WinForms exercises and applications.
 * **[CPP-Mini-Projects](https://github.com/ali-alemami/CPP-Mini-Projects)** — Procedural C++ console applications including a math quiz and stone-paper-scissors game.
 * **[Data-Structures-CPP](https://github.com/ali-alemami/Data-Structures-CPP)** — Custom singly and doubly linked lists alongside C++ STL container exercises.
 * **[Programming-Advices-Algorithms](https://github.com/ali-alemami/Programming-Advices-Algorithms)** — Algorithmic problem-solving exercises across Levels 2 through 4.
