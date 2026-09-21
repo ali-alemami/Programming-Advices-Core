@@ -53,13 +53,6 @@ Programming-Advices-Core/
 
 ## Standalone Repositories
 
-* **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Procedural C++ banking engine using structs and file serialization (NOT OOP).
-* **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — Skeletal/incomplete N-Tier C# application.
-* **[CSharp-WinForms-Collection](https://github.com/ali-alemami/CSharp-WinForms-Collection)** — WinForms exercises and applications.
-* **[CPP-Mini-Projects](https://github.com/ali-alemami/CPP-Mini-Projects)** — Console applications (math quiz and stone-paper-scissors).
-* **[Data-Structures-CPP](https://github.com/ali-alemami/Data-Structures-CPP)** — Linked lists plus STL usage examples (NOT all from scratch).
-* **[Programming-Advices-Algorithms](https://github.com/ali-alemami/Programming-Advices-Algorithms)** — Algorithmic exercises Levels 2-4.
-* **[42 Core Archive](https://github.com/ali-alemami/42-core)** — Low-level C systems projects including `minishell`, `mini_rt`, and `philosophers`.
 * **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Procedural C++ banking application using structs, bitmask permissions, and file-based persistence.
 * **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — 3-Tier C# and ADO.NET application skeleton demonstrating parameterized SQL.
 * **[CSharp-WinForms-Collection](https://github.com/ali-alemami/CSharp-WinForms-Collection)** — Collection of desktop GUI applications and practice exercises built with C# and WinForms.
