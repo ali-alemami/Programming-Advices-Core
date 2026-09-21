@@ -1,68 +1,72 @@
-# C++ Foundations, Algorithms & Data Structures 🚀
+# C++ Foundations, Algorithms & Data Structures
 
-A comprehensive engineering repository covering foundational to advanced **Algorithms**, **C++ Memory Management**, **Object-Oriented Programming (OOP)**, **Custom Data Structures**, and **Computer Science Fundamentals** from the [Programming Advices](https://programmingadvices.com/) curriculum.
-
-Organized by **technical subject domain** rather than course numbers for seamless navigation, code discoverability, and clean architecture.
+A coursework collection organized by subject area, covering **Algorithms**, **C++ Memory Management**, **Object-Oriented Programming (OOP)**, **Data Structures**, and **Computer Science Fundamentals** from the [Programming Advices](https://programmingadvices.com/) curriculum.
 
 ---
 
-## 📂 Repository Architecture
+## Repository Architecture
 
 ```text
 Programming-Advices-Core/
-├── 📁 01_Algorithms_and_Problem_Solving/
-│   ├── 📁 Level_1_Foundations/              # 50 basic math, loops & logic algorithms
-│   ├── 📁 Level_2_Intermediate/             # 50 array manipulation & number theory problems
-│   ├── 📁 Level_3_Matrices_and_Arrays/      # 50 2D matrix algorithms & string operations
-│   ├── 📁 Level_4_DateTime_Algorithms/      # 65+ comprehensive date/time & calendar systems
-│   └── 📁 Level_5_Applied_Logic/            # Queue systems & double linked list problem sets
+├── 01_Algorithms_and_Problem_Solving/
+│   ├── Level_1_Foundations/              # Basic math, loops & logic algorithms
+│   ├── Level_2_Intermediate/             # Array manipulation & number theory problems
+│   ├── Level_3_Matrices_and_Arrays/      # 2D matrix algorithms & string operations
+│   ├── Level_4_DateTime_Algorithms/      # Date/time & calendar systems
+│   └── Level_5_Applied_Logic/            # Queue systems & double linked list problem sets
 │
-├── 📁 02_CPP_and_OOP_Foundations/
-│   ├── 📁 01_Syntax_and_Memory/
-│   │   ├── 📁 Level_1_Basics/               # Syntax, conditionals, loops, functions
-│   │   └── 📁 Level_2_Memory_and_Files/     # Pointers, references, file I/O, vectors
-│   ├── 📁 02_OOP_Concepts/                  # Inheritance, Polymorphism, Virtual Functions, Templates
-│   └── 📁 03_OOP_Libraries_and_Projects/   # DateLib, StringLib, ValidationLib, Bank System
+├── 02_CPP_and_OOP_Foundations/
+│   ├── 01_Syntax_and_Memory/
+│   │   ├── Level_1_Basics/               # Syntax, conditionals, loops, functions
+│   │   └── Level_2_Memory_and_Files/     # Pointers, references, file I/O, vectors
+│   ├── 02_OOP_Concepts/                  # Inheritance, Polymorphism, Virtual Functions, Templates
+│   └── 03_OOP_Libraries_and_Projects/    # DateLib, StringLib, ValidationLib, Bank System
 │
-├── 📁 03_Data_Structures/
-│   ├── 📁 Singly_Linked_List/               # Singly linked list implementations & traversal
-│   ├── 📁 Doubly_Linked_List/               # Bidirectional node operations & manipulation
-│   ├── 📁 Stack_and_Queue/                  # LIFO / FIFO operations (StackSwap, QueueLine)
-│   └── 📁 Map/                              # Associative array and key-value mapping
+├── 03_Data_Structures/
+│   ├── DoublyLinkedList/                 # Bidirectional node operations
+│   ├── Map/                              # Map exercises
+│   ├── SinglyLinkedList/                 # Singly linked list implementations
+│   └── StackSwap/                        # Stack operations
 │
-├── 📁 04_CS_Foundations_and_Networking/
-│   └── 📁 Networking_and_OS_Notes/          # TCP/IP, IPv4/IPv6, DHCP, NAT, Sockets & Servers
+├── 04_CS_Foundations_and_Networking/
+│   └── Networking_and_OS_Notes/          # TCP/IP, IPv4/IPv6, DHCP, NAT, Sockets & Servers
 │
-└── 📁 05_Database_and_SQL/
-    ├── 📁 01_Relational_Schemas_and_Projects/ # 5 Enterprise DDL Schemas (Clinic, Library, Karate, Rental, Store)
-    └── 📁 02_SQL_Practices_and_Queries/     # 50 Analytical SQL problems, Window Functions, Self-Joins
+└── 05_Database_and_SQL/
+    ├── 01_Relational_Schemas_and_Projects/ # DDL Schemas (Clinic, Library, Karate, Rental, Store)
+    └── 02_SQL_Practices_and_Queries/       # SQL problems, Window Functions, Self-Joins
 ```
 
 ---
 
-## 📊 Summary of Implemented Modules
+## Summary of Implemented Modules
 
 | Category | Modules / Problems | Focus Areas |
 | :--- | :--- | :--- |
-| **01. Algorithms** | **225+ Solutions** | Math, Matrix Transformations, Number Theory, Date Math, Recursion |
-| **02. C++ & Memory** | **40+ Modules** | Pointers, Dynamic Allocation, File I/O, Vector Manipulation |
-| **03. OOP & Architecture** | **12+ Concepts & Projects** | Inheritance, Polymorphism, Custom String/Date/Validation Libraries |
-| **04. Data Structures** | **Core Implementations** | Custom Singly/Doubly Linked Lists, Stacks, Queues, Maps |
-| **05. Systems & Networking** | **Theory & Specs** | TCP/IP Model, IPv4/v6 Addressing, Subnetting, NAT, DHCP |
-| **06. Database & SQL** | **5 Schemas & 54+ Queries** | DDL/DML, 1NF–3NF Normalization, Window Aggregations, Self-Joins |
+| **01. Algorithms** | 225+ Solutions | Math, Matrix Transformations, Number Theory, Date Math, Recursion |
+| **02. C++ & Memory** | 40+ Modules | Pointers, Dynamic Allocation, File I/O, Vector Manipulation |
+| **03. OOP & Architecture** | 12+ Concepts & Projects | Inheritance, Polymorphism, Custom String/Date/Validation Libraries |
+| **04. Data Structures** | Core Implementations | Linked Lists, Stacks, Maps |
+| **05. Systems & Networking** | Theory & Specs | TCP/IP Model, IPv4/v6 Addressing, Subnetting, NAT, DHCP |
+| **06. Database & SQL** | Schemas & Queries | DDL/DML, 1NF–3NF Normalization, Window Aggregations, Self-Joins |
 
 ---
 
-## 🌟 Standalone Capstone Projects
+## Standalone Repositories
 
-For full-scale enterprise projects and dedicated applications:
-* 🏦 **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — 1,500+ line C++ banking engine with bitmask permissions, OOP architecture, and file serialization.
-* 📇 **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — 3-Tier Enterprise C# application with ADO.NET and SQL Server integration.
-* 🖥️ **[CSharp-WinForms-Collection](https://github.com/ali-alemami/CSharp-WinForms-Collection)** — Event-driven desktop applications built with C# and WinForms.
-* 🧩 **[CPP-Mini-Projects](https://github.com/ali-alemami/CPP-Mini-Projects)** — Foundational C++ applications focusing on memory management and file I/O.
-* 🏗️ **[Data-Structures-CPP](https://github.com/ali-alemami/Data-Structures-CPP)** — Standalone repository of data structures in C++ with memory safety focus.
-* 🧮 **[Programming-Advices-Algorithms](https://github.com/ali-alemami/Programming-Advices-Algorithms)** — Standalone archive of algorithmic problem-solving in C++.
-* ⚡ **[42 Core Archive](https://github.com/ali-alemami/42-core)** — Low-level C systems projects including `minishell`, `mini_rt`, and `philosophers`.
+* **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Procedural C++ banking engine using structs and file serialization (NOT OOP).
+* **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — Skeletal/incomplete N-Tier C# application.
+* **[CSharp-WinForms-Collection](https://github.com/ali-alemami/CSharp-WinForms-Collection)** — WinForms exercises and applications.
+* **[CPP-Mini-Projects](https://github.com/ali-alemami/CPP-Mini-Projects)** — Console applications (math quiz and stone-paper-scissors).
+* **[Data-Structures-CPP](https://github.com/ali-alemami/Data-Structures-CPP)** — Linked lists plus STL usage examples (NOT all from scratch).
+* **[Programming-Advices-Algorithms](https://github.com/ali-alemami/Programming-Advices-Algorithms)** — Algorithmic exercises Levels 2-4.
+* **[42 Core Archive](https://github.com/ali-alemami/42-core)** — Low-level C systems projects including `minishell`, `mini_rt`, and `philosophers`.
+* **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Procedural C++ banking application using structs, bitmask permissions, and file-based persistence.
+* **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — 3-Tier C# and ADO.NET application skeleton demonstrating parameterized SQL.
+* **[CSharp-WinForms-Collection](https://github.com/ali-alemami/CSharp-WinForms-Collection)** — Collection of desktop GUI applications and practice exercises built with C# and WinForms.
+* **[CPP-Mini-Projects](https://github.com/ali-alemami/CPP-Mini-Projects)** — Procedural C++ console applications including a math quiz and stone-paper-scissors game.
+* **[Data-Structures-CPP](https://github.com/ali-alemami/Data-Structures-CPP)** — Custom singly and doubly linked lists alongside C++ STL container exercises.
+* **[Programming-Advices-Algorithms](https://github.com/ali-alemami/Programming-Advices-Algorithms)** — Algorithmic problem-solving exercises across Levels 2 through 4.
+* **[42 Core Archive](https://github.com/ali-alemami/42-core)** — Low-level C systems projects from the 42 curriculum.
 
 ---
 *Maintained by [Ali Alemami](https://github.com/ali-alemami)*
